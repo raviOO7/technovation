@@ -120,10 +120,10 @@ if(!isset($title)){
 								
 								
 								<li class="dropdown ">
-									<a href="#" class="dropdown-toggle js-activated">Abstract Submission</a>
+									<a href="#" class="dropdown-toggle js-activated">Registration</a>
 									
 									<ul class="dropdown-menu">
-										<li><a href="#" data-toggle="modal" data-target="#myModal">Submit your Abstract </a></li>
+										<li><a href="#" data-toggle="modal" data-target="#myModal">Submit your Idea </a></li>
 
 										
 									</ul><!-- /.dropdown-menu -->
@@ -138,9 +138,9 @@ if(!isset($title)){
         <h4 class="modal-title" id="myModalLabel">Abstract Submission ( DeadLine : 23 August,2014 )</h4>
       </div>
       <div class="modal-body">
-      Register your team by filling this Google form .<br>
-      <a style="font-size:12px"href="https://docs.google.com/forms/d/1_zLze7BT8uytfBHIF0huJtLE3x6KDTv_0nXmBKvBjOE/viewform?c=0&amp;w=1&amp;usp=mail_form_link" target="_blank">https://docs.google.com/forms/<wbr>d/1_<wbr>zLze7BT8uytfBHIF0huJtLE3x6KDTv<wbr>_0nXmBKvBjOE/viewform?c=0&amp;w=1&amp;<wbr>usp=mail_form_link</a>
-        <br>Mail Your Abstract here : <span style="font-size:13px">iitbtechnovation2k14@gmail.com<span>
+      Register your team by filling this Google form <br>
+      <a style="font-size:15px"href="http://goo.gl/imTc7l" target="_blank">http://goo.gl/imTc7l</a>
+        <br>Mail Your Abstract here : <span style="font-size:15px">iitbtechnovation2k14@gmail.com<span>
       </div>
       <div class="modal-footer">
         <p style="font-size:15px">For any Queries , Please contact Shyam Sunder : 7738450101 </p>
@@ -161,8 +161,18 @@ if(!isset($title)){
 												<div class="col-sm-3 inner">
 													<h4>Social <br> Projects</h4>
 													
-															<p>Sammillan</p>
-														
+															<p>TechGSR</p>
+													<ul class="circled">
+														<li>Study based projects</li>
+														<li>Maping and planning based projects</li>
+														<li>Water based projects</li>
+														<li>Agriculture based projects</li>
+														<li>Livelihood/ Enterprise opportunity based projects</li>
+														<li>Transportation based projects</li>
+														<li>Housing based projects</li>
+
+																												
+													</ul><!-- /.circled -->														
 													
 												</div><!-- /.col -->
 												
@@ -221,7 +231,7 @@ if(!isset($title)){
 									<a href="#" class="dropdown-toggle js-activated">Mentors</a>
 									
 									<ul class="dropdown-menu">
-										<li><a href="mentors1.php">Meet our Mentors</a></li>
+										<li><a href="mentors.php">Meet our Mentors</a></li>
 										
 									</ul><!-- /.dropdown-menu -->
 								</li><!-- /.dropdown -->
