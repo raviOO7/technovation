@@ -167,7 +167,7 @@ if(!isset($title)){
 														<li>Technical projects</li>
 														<li>Management projects</li>	
 													</ul><!-- /.circled -->														
-													<p><a href="SocioTech.php" target="_blank"> more info</a></p> <br/>
+													<p><a href="TechGSR.php" target="_blank"> more info</a></p> <br/>
 													<p><a href="http://tinyurl.com/TechGSR" target="_blank"> Register</a></p>
 													
 												</div><!-- /.col -->

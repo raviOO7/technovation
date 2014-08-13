@@ -61,7 +61,7 @@
 								<p class="fadeInLeft-2 " style="color:black ;position:relative;top:-20px"> </p>
 								
 								<div class="fadeInRight-3">
-									<a href="socioTech.php" class="btn btn-large">View Page</a>
+									<a href="TechGSR.php" class="btn btn-large">View Page</a>
 								</div><!-- /.fadeIn -->
 								
 							</div><!-- /.caption -->
