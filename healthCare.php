@@ -48,7 +48,7 @@ August 2014.</b><br><br>
 
 Here are the some needs and statements from InnAccel , one of the Healthcare research consortium partners <br>
 <a target=_blank href="assets/Emergency%20and%20Trauma%20Needs%20List.pdf" style="color:#3EB8A0">Needs List for Emergency and Trauma</a>  &amp; 
-<a target=_blank  href="assets/ENT%20Needs%20List%20.pdf" style="color:#3EB8A0"> Needs List for ENT </a> <br> <br/>
+<a target=_blank  href="assets/ENT%20Needs%20List%20.pdf" style="color:#3EB8A0">Needs List for ENT</a> <br> <br/>
 
 For any queries, please contact:<br>
 Prof. Santosh Noronha || noronha@iitb.ac.in || 7238<br>
