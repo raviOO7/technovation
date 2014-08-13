@@ -34,20 +34,23 @@ and the proposal should contain these:<br>
    -<b> Clinical need being addressed</b><br>
    -<b> Specific objectives being targeted</b><br>
    -<b> Novelty of the approach</b><br>
-   -<b> Clinical expertise needed</b> ( to be made available through
+   -<b> Clinical expertise needed</b> (to be made available through
      Consortium partners)<br><br>
 
 More information about the Heathcare Research Consortium is available at:
-<a style="font-size:20px;color:#3EB8A0"href="http://healthcare-research.iitb.ac.in" target="_blank"><strong><u>Healthcare-research @iitb</u></strong></a>
+<a style="font-size:20px"href="http://healthcare-research.iitb.ac.in" target="_blank"><strong><u>Healthcare-research @iitb</u></strong></a>
       <br><br>
 
 Student teams can send in their proposals to noronha@iitb.ac.in by  <b>24
-August 2014.</b><br>
+August 2014.</b><br><br>
+
 <br><a style="color:#3EB8A0"  href="https://docs.google.com/spreadsheet/ccc?key=0ApJ4BsAnkd2BdDVmX0ZKS3RwMUhGRWhZTk5kVHRBNmc&usp=gmail#gid=0">Browse to <b>Proposed Healthcare Projects at IITB</a></b><br><br>
+
 Here are the some needs and statements from InnAccel , one of the Healthcare research consortium partners <br>
-<a target=_blank href="assets/Emergency%20and%20Trauma%20Needs%20List.pdf" style="color:#3EB8A0">Needs	List	for	Emergency	and	Trauma</a>  &amp; 
-<a target=_blank  href="assets/ENT%20Needs%20List%20.pdf" style="color:#3EB8A0"> Needs	List	for	ENT </a> <br> 
-For any queries, please contact:<br><br>
+<a target=_blank href="assets/Emergency%20and%20Trauma%20Needs%20List.pdf" style="color:#3EB8A0">Needs List for Emergency and Trauma</a>  &amp; 
+<a target=_blank  href="assets/ENT%20Needs%20List%20.pdf" style="color:#3EB8A0"> Needs List for ENT </a> <br> <br/>
+
+For any queries, please contact:<br>
 Prof. Santosh Noronha || noronha@iitb.ac.in || 7238<br>
 Amaldev V. || amaldev.000@gmail.com || 9820481964<br>
 
