@@ -14,20 +14,22 @@
 					
 					
 					
+					
 					<div class="col-md-4 col-sm-6 inner">
 						<h4>Get In Touch</h4>
 						<p>Find us in New Tinkeres Lab</p>
 						<ul class="contacts">
-							<li><i class="icon-location contact"></i> Tree Labs beside Mechanical Department , IIt Bombay , &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Powaii , Mumbai</li>
+							<li><i class="icon-location contact"></i> Behind Tree Labs near Mechanical Department,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  IIT Bombay, Powai, Mumbai</li>
 							<li><i class="icon-mobile contact"></i>  07738450101 , 09769486341 , 07738258332</li>
 							<li><a href="#"><i class="icon-mail-1 contact"></i> iitbtechnovation2k14@gmail.com</a></li>
 						</ul><!-- /.contacts -->
 					</div><!-- /.col -->
 					
+					
 					<div class="col-md-4 col-sm-6 inner">
 						<h4>Site Maintained By</h4>
-						<h2>Akash Kishore <p>9967342805<p></h2>
-						<h2>Prateek Chandan</h2>
+						<h3>Akash Kishore <p>9967342805<p></h3>
+						<h3>Prateek Chandan</h3>
 					
 					</div><!-- /.col -->
 					

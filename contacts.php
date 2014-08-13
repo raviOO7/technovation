@@ -23,25 +23,25 @@
 									<p>Find us in Tinkere's lab</p>
 									<h3>New Tinkerer's Lab</h3>
 									<ul class="contacts">
-										<li><i class="icon-location contact"></i> Tree Labs beside Mechanical Department,IIt Bombay,Powaii,Mumbai-400076</li>
+										<li><i class="icon-location contact"></i> Tree Labs beside Mechanical Department, IIt Bombay, powai, Mumbai-400076</li>
 										<li><a href="mailto:info@reen.com"><i class="icon-mail-1 contact"></i>stab.iitb@gmail.com</a></li>
 									</ul><!-- /.contacts -->
 									
 									<h3>Old Tinkerer's lab</h3>
 									<ul class="contacts">
-										<li><i class="icon-location contact"></i> 3rd floor , Main Building IIt Bombay , Powaii , Mumbai - 400076</li>
+										<li><i class="icon-location contact"></i> 3rd floor, Main Building IIT Bombay, powai, Mumbai - 400076</li>
 										<li><a href="mailto:info@reen.com"><i class="icon-mail-1 contact"></i>stab.iitb@gmail.com</a></li>
 									</ul><!-- /.contacts -->
 									
 									<div class="social-network">
 										<h3>Social</h3>
 										<ul class="social">
-											<li><a href="#"><i class="icon-s-facebook"></i></a></li>
-											<li><a href="#"><i class="icon-s-gplus"></i></a></li>
+											<li><a href="https://www.facebook.com/pages/Technovation/153398628063238"><i class="icon-s-facebook"></i></a></li>
+											<li><a href="https://groups.google.com/forum/#!forum/technovation-council"><i class="icon-s-gplus"></i></a></li>
 											<li><a href="#"><i class="icon-s-twitter"></i></a></li>
 											
 										</ul><!-- /.social -->
-                    <br><br><br><p>Site Built By <h1>AKASH KISHORE</h1></p>
+                    <br><br><br>Site Built By <h2>AKASH KISHORE</h2><br>
 					<ul class="footer-menu pull-left">
 						<li><a href="index.php">About</a></li>
 						

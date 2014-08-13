@@ -18,7 +18,7 @@
 								
 								<h1 class="fadeInDown-1 light-color">Technovation</h1>
 								<h4 class="fadeInDown-1 light-color">Don't Think outside the box, Break the Box</h4>
-								<p class="fadeInDown-2 medium-color">the one stop platform for tech. enthusiast<div class="fadeInDown-3">
+								<p class="fadeInDown-2 medium-color">the one stop platform for Tech Enthusiast<div class="fadeInDown-3">
 									
 								</div><!-- /.fadeIn -->
 								
@@ -30,7 +30,7 @@
 						<div class="container">
 							<div class="caption vertical-center text-right">
 								
-								<h1 class="fadeInLeft-1 " style="color:black">Panther <span class="fadeInLeft-1 " style="color:white">CNC</span></h1>
+								<h1 class="fadeInLeft-1 " style="color:black"><span class="fadeInLeft-1 " style="color:white">CNC</span></h1>
 								<p class="fadeInLeft-2 " style="color:black ;position:relative;top:-20px">Student Designed low cost CNC machine</p>
 								<div class="fadeInLeft-3">
 									<a href="cnc.pdf" class="btn btn-large" >View abstract</a>
@@ -40,10 +40,39 @@
 						</div><!-- /.container -->
 					</div><!-- /.item -->
 					
-					<div class="item" style="background-image: url(assets/images/art/about3.jpg);">
+					<div class="item" style="background-image: url(assets/images/art/healthcare.jpg);">
 						<div class="container">
 							<div class="caption vertical-center text-left">
-								<h1 class="fadeInLeft-1 " style="color:black">Parinat <br><h1 class="fadeInLeft-1 " style="color:white">IIT Bombay</h1></h1>
+								<h1 class="fadeInLeft-1 " style="color:White">HealthCare Projects<br><h1 class="fadeInLeft-1 " style="color:white">IIT Bombay</h1></h1>
+								<p class="fadeInLeft-2 " style="color:black ;position:relative;top:-20px"> </p>
+								
+								<div class="fadeInRight-3">
+									<a href="healthCare.php" class="btn btn-large">View Page</a>
+								</div><!-- /.fadeIn -->
+								
+							</div><!-- /.caption -->
+						</div><!-- /.container -->
+					</div><!-- /.item -->
+					
+					<div class="item" style="background-image: url(assets/images/art/sociotech2.jpg);">
+						<div class="container">
+							<div class="caption vertical-center text-left">
+								<h1 class="fadeInLeft-1 " style="color:black">Social Projects<br><h1 class="fadeInLeft-1 " style="color:black">TechGSR</h1></h1>
+								<p class="fadeInLeft-2 " style="color:black ;position:relative;top:-20px"> </p>
+								
+								<div class="fadeInRight-3">
+									<a href="socioTech.php" class="btn btn-large">View Page</a>
+								</div><!-- /.fadeIn -->
+								
+							</div><!-- /.caption -->
+						</div><!-- /.container -->
+					</div><!-- /.item -->
+
+										
+					<div class="item" style="background-image: url(assets/images/art/parinat.jpg);">
+						<div class="container">
+							<div class="caption vertical-center text-left">
+								<h1 class="fadeInLeft-1 " style="color:black">Parinat<br><h1 class="fadeInLeft-1 " style="color:white">IIT Bombay</h1></h1>
 								<p class="fadeInLeft-2 " style="color:black ;position:relative;top:-20px">Student Designed humanoid robot</p>
 								
 								<div class="fadeInRight-3">
@@ -53,15 +82,29 @@
 							</div><!-- /.caption -->
 						</div><!-- /.container -->
 					</div><!-- /.item -->
-					
+
 					<div class="item" style="background-image: url(assets/images/art/about4.jpg);">
 						<div class="container">
 							<div class="caption vertical-top text-right">
 								
 								<h1 class="fadeIn-1 dark-bg light-color"><span>Come , Give wings to<br>your creativity</span></h1>
-								<p class="fadeIn-2 light-color">We provide you financial assistance , mentors<br>all required equipments and get your projects patented</p>
+								<p class="fadeIn-2 light-color">We provide you financial assistance , mentors<br> and all required equipments for the completion of projects</p>
 								<div class="fadeIn-3">
 									<a href="contacts.php" class="btn btn-large">Get in contact with us</a>
+								</div><!-- /.fadeIn -->
+								
+							</div><!-- /.caption -->
+						</div><!-- /.container -->
+					</div><!-- /.item -->
+					
+
+					<div class="item" style="background-image: url(assets/images/art/tinkerers_lab.jpg);">
+						<div class="container">
+							<div class="caption vertical-top text-right">
+								
+								<h1 class="fadeIn-1 dark-bg light-color"><span>Tinkerers'<br>Lab</span></h1>
+								<div class="fadeIn-3">
+									<a href="http://stab-iitb.org/tinkerers-lab" class="btn btn-large">Visit Page</a>
 								</div><!-- /.fadeIn -->
 								
 							</div><!-- /.caption -->
@@ -86,24 +129,26 @@
 							<header>
 								
 <p style="text-align: justify; ">								
+<strong>About</strong><br>
 Technovation is a unique institute wide innovation program under Students’ Technical Activity Body (STAB), IIT Bombay. It is a platform where students can float their innovative ideas, get funded, find mentors, build a dedicated team and realize their dream project. It is also a platform for professors, industries, alumni and social organizations who can float projects on which students can engage and come up with engineering solutions to a plethora of problems all around us and fulfill the urgent need of innovation India is facing. Apart from these, Technovation provides an opportunity to students to join the project teams and learn the journey from an idea to its execution while contributing to the team.
 
+</p><p style="text-align: justify; ">
+<strong>Why Technovation?</strong><br /> 
+1.       <b>Fulfillment of Tech at Heart:</b>  This is that place where you work with your heart without worrying about any constraints or deadline. It is your passion which drives you to dedicate your efforts for completion of project and achieving what you dreamt.
+<br>
+2.       <b>Thrill of solving real problems:</b> Apart from satisfying your whims and fancies, you engage in building something which really matters.
+<br>
+3.       <b>Technical Entrepreneurship:</b> You can turn your product into a market reality and even start your own entrepreneurial venture. We ensure the active support of E-Cell, IIT Bombay and Society for Innovation and Entrepreneurship (SINE), IIT Bombay in making this possible.
+<br>
+</p>
+<p style="text-align: justify; ">
+<strong>What now?</strong><br /> Interested students should fill this form and can apply individually or in a team. <a href="http://goo.gl/imTc7l">http://goo.gl/imTc7l</a><br>
+The last date of doing so is 23rd August 2014.<br><br>
 
-<!--/p><p style="text-align: justify; ">
-<strong>How to apply?</strong><br /> We believe passion, desire and willpower are the most important qualities to be successful and hence instead of floating projects, we are inviting students to pitch in their ideas and be team leaders. These ideas need to be submitted in the form of an abstract detailing the technical aspects (details can he found here). Best 8 innovative ideas with technologically sound solutions would be selected on the basis of an interview. Leaders will then be asked to announce profiles for team members in an orientation session and best candidates would be selected to form teams. Freshmen would be allowed to participate from the next semester.
-</p>
-<p style="text-align: justify; ">
-<strong>Why Technovation?</strong><br /> Apart from the above mentioned benefits and the joy of innovation, you become a part of technical community and meet like-minded fighters. What&#8217;s more, you stand a good chance of receiving technical awards, Undergraduate Research Awards and of course a great innovation absolutely stands out in your resume.
-</p>
-<p style="text-align: justify; ">
-<strong>What now?</strong><br /> Join our google group for regular updates<br /> <a title="Google group" href="https://groups.google.com/group/technovation-iitb" target="_blank">https://groups.google.com/group/technovation-iitb</a>
-</p>
-<p style="text-align: justify; ">
-Apply for team leader<br /> prepare an abstract and get in touch with Technovation Manager
-</p-->
+For students interested in heathcare projects, go to <a href="http://technovation.stab-iitb.org/healthCare.php">http://technovation.stab-iitb.org/healthCare.php</a><br>
 <br>
-<br>
-For getting started <a href="#" data-toggle="modal" data-target="#myModal">Click here </a>
+Even if you have a rough idea and are not confident, please write to us at iitbtechnovation2k14@gmail.com. Our mentors will be more than happy to help you.&nbsp;&nbsp;&nbsp;<a title="Google group" href="https://groups.google.com/group/technovation-iitb" target="_blank">https://groups.google.com/group/technovation-iitb</a>
+</p>
 
 </div>
 

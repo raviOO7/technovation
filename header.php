@@ -137,7 +137,8 @@ if(!isset($title)){
         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
         <h4 class="modal-title" id="myModalLabel">Abstract Submission ( DeadLine : 23 August,2014 )</h4>
       </div>
-      <div class="modal-body">
+      
+     <div class="modal-body">
       Register your team by filling this Google form <br>
       <a style="font-size:15px"href="http://goo.gl/imTc7l" target="_blank">http://goo.gl/imTc7l</a>
         <br>Mail Your Abstract here : <span style="font-size:15px">iitbtechnovation2k14@gmail.com<span>
@@ -163,16 +164,11 @@ if(!isset($title)){
 													
 															<p>TechGSR</p>
 													<ul class="circled">
-														<li>Study based projects</li>
-														<li>Maping and planning based projects</li>
-														<li>Water based projects</li>
-														<li>Agriculture based projects</li>
-														<li>Livelihood/ Enterprise opportunity based projects</li>
-														<li>Transportation based projects</li>
-														<li>Housing based projects</li>
-
-																												
+														<li>Technical projects</li>
+														<li>Management projects</li>	
 													</ul><!-- /.circled -->														
+													<p><a href="SocioTech.php" target="_blank"> more info</a></p> <br/>
+													<p><a href="http://tinyurl.com/TechGSR" target="_blank"> Register</a></p>
 													
 												</div><!-- /.col -->
 												
@@ -192,11 +188,10 @@ if(!isset($title)){
 													<h4>Student Driven Projects</h4>
 													<ul class="circled">
 														<li><a href="cnc.pdf" target="_blank">CNC Laser cutting Machine</a></li>
-														<li><a href="dut1.pdf" target="_blank">DUT</a></li>
-														<li><a href="rid.pdf" target="_blank">Foetal Heartrate Measurement</a></li>
-														<li><a href="Blue-Ray.pdf" target="_blank">Blue-Ray</a></li>
+														<li><a href="dut1.pdf" target="_blank">Device under test</a></li>
+														
 														<li><a href="braille display.pdf" target="_blank">Refreshable braille display</a></li>
-														<li><a href="Abstract-Tilt-rotor.pdf" target="_blank">Tilt-Rotor</a></li>
+														<li><a href="tilt-rotor.php" target="_blank">Tilt-Rotor</a></li>
 														<li><a href="blind.pdf" target="_blank">Perception system for blinds</a></li>
 														
 													</ul><!-- /.circled -->
@@ -206,15 +201,17 @@ if(!isset($title)){
 													<h4>Previous Year's project</h4>
 													
 													<ul class="circled">
+													<li><a href="campusTransport.php">Campus Transport Tracking System</a></li>
+													<li><a href="parinat.php">Parinat</a></li>
 														<li><a href="artificial.php">Artificial Instrumentalist</a></li>
 														<li><a href="skate-board.php">Balancing Skate Board</a></li>
 														<li><a href="peapod.php">Pea Pod Mac For MAsses</a></li>
 														<li><a href="roboticChess.php">Robotic Chess</a></li>
-														<li><a href="campusTransport.php">Campus Transport Tracking System</a></li>
+														
 														<li><a href="nonContact.php">Non Contact Thermometer</a></li>
 														<li><a href="bookBot.php">Book Keeping Bot</a></li>
 														<li><a href="ornithopter.php">Ornithoper</a></li>
-														<li><a href="parinat.php">Parinat</a></li>
+														
 														
 														
 													</ul><!-- /.circled -->
@@ -231,7 +228,7 @@ if(!isset($title)){
 									<a href="#" class="dropdown-toggle js-activated">Mentors</a>
 									
 									<ul class="dropdown-menu">
-										<li><a href="mentors.php">Meet our Mentors</a></li>
+										<li><a href="mentors1.php">Meet our Mentors</a></li>
 										
 									</ul><!-- /.dropdown-menu -->
 								</li><!-- /.dropdown -->
