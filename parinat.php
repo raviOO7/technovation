@@ -135,7 +135,7 @@ Acrylic
 							<figure class="member">
 								
 								<div class="icn-link">
-									<a href="#"><img src="assets/images/art/about3.jpg" ></a>
+									<a href="#"><img src="assets/images/art/about3.JPG" ></a>
 								</div><!-- /.icon-overlay -->
 								
 								<figcaption>

@@ -88,11 +88,11 @@
 											
 												
 											
-											<img class="img-thumbnail"src="assets/images/art/shyam.jpg">
+											<img class="img-thumbnail"src="assets/images/art/shyam.jpg"style="height:200px;width:200px">
 											
 										</div><!-- /.member-image -->
 										
-										<figcaption class="member-details bordered no-top-border">
+										<figcaption class="member-details bordered no-top-border" style="height:110px;width:200px;position:relative;left:36px">
 											<h3>
 												Shyam Sunder 
 												<span>Manager <br>7738450101 </span>
@@ -108,11 +108,11 @@
 										<div class="member-image">
 											
 											
-											<img class="img-thumbnail"src="assets/images/art/manmohan.jpg">
+											<img class="img-thumbnail"src="assets/images/art/manmohan.jpg" style="height:200px;width:200px">
 											
 										</div><!-- /.member-image -->
 										
-										<figcaption class="member-details bordered no-top-border">
+										<figcaption class="member-details bordered no-top-border"style="height:110px;width:200px;position:relative;left:36px">
 											<h3>
 												Manmohan Mandhana 
 												<span>Manager <br>9769486341</span>
@@ -132,11 +132,11 @@
 											
 											
 											
-											<img class="img-thumbnail"src="assets/images/art/dewa.jpg">
+											<img class="img-thumbnail"src="assets/images/art/dewa.jpg"style="height:200px;width:200px">
 											
 										</div><!-- /.member-image -->
 										
-										<figcaption class="member-details bordered no-top-border">
+										<figcaption class="member-details bordered no-top-border"style="height:110px;width:200px;position:relative;left:36px">
 											<h3>
 												Dewashish Kumar Dey
 												<span>Manager <br>7738258332</span>
@@ -157,11 +157,11 @@
 											
 											
 											
-											<img class="img-thumbnail"src="assets/images/art/umang.jpg">
+											<img class="img-thumbnail"src="assets/images/art/umang.jpg"style="height:150px;width:150px">
 											
 										</div><!-- /.member-image -->
 										
-										<figcaption class="member-details bordered no-top-border">
+										<figcaption class="member-details bordered no-top-border"style="height:110px;width:150px;position:relative;left:26px">
 											<h3>
 												Umang Chhaparia
 												<span>Convener 9967346106 </span>
@@ -176,11 +176,11 @@
 										
 										<div class="member-image">
 											
-											<img class="img-thumbnail"src="assets/images/art/akash.jpg">
+											<img class="img-thumbnail"src="assets/images/art/akash.jpg"style="height:150px;width:150px">
 											
 										</div><!-- /.member-image -->
 										
-										<figcaption class="member-details bordered no-top-border">
+										<figcaption class="member-details bordered no-top-border"style="height:110px;width:150px;position:relative;left:26px">
 											<h3>
 											    Akash Kishore 
 												<span>Convener 9967342805 </span>
@@ -200,11 +200,11 @@
 											
 											
 											
-											<img class="img-thumbnail" src="assets/images/art/jashan.jpg">
+											<img class="img-thumbnail" src="assets/images/art/jashan.jpg"style="height:150px;width:150px">
 											
 										</div><!-- /.member-image -->
 										
-										<figcaption class="member-details bordered no-top-border">
+										<figcaption class="member-details bordered no-top-border"style="height:110px;width:150px;position:relative;left:26px">
 											<h3>
 												Jashan Singhal
 												<span>Convener 9987870369 </span>
@@ -220,11 +220,11 @@
 										<div class="member-image">
 											
 											
-											<img class="img-thumbnail"src="assets/images/art/sumit.jpg">
+											<img class="img-thumbnail"src="assets/images/art/sumit.jpg"style="height:150px;width:150px">
 											
 										</div><!-- /.member-image -->
 										
-										<figcaption class="member-details bordered no-top-border">
+										<figcaption class="member-details bordered no-top-border"style="height:110px;width:150px;position:relative;left:26px">
 											<h3>
 												Sumit Jain
 												<span>Convener 8233490102 </span>

@@ -2,36 +2,32 @@
 		<!-- ============================================================= FOOTER ============================================================= -->
 		
 		<footer class="dark-bg">
-			<div class="container inner">
-				<div class="row">
-					
-					<div class="col-md-4 col-sm-6 inner">
-						<h4>Who we are</h4>
-						<a href="index.html"><img class="logo img-intext" src="assets/images/logo.jpg" alt=""></a>
-						<p>Technovation is expected to give students a better platform to showcase technical projects. Technovation was started three years ago by a few students who were unhappy with the technical projects scene at IIT.</p><a href="about.html" class="txt-btn">More about us</a>
-					</div><!-- /.col -->
+			<div class="container inner" style="width: 1440px">
+	
 					
 					
 					
 					
 					
-					<div class="col-md-4 col-sm-6 inner">
+					
+					
+					<div class="pull-left">
 						<h4>Get In Touch</h4>
 						<p>Find us in New Tinkeres Lab</p>
 						<ul class="contacts">
-							<li><i class="icon-location contact"></i> Behind Tree Labs near Mechanical Department,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  IIT Bombay, Powai, Mumbai</li>
+							<li><i class="icon-location contact"></i> Behind Tree Labs near Mechanical Department,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IIT Bombay, Powai, Mumbai</li>
 							<li><i class="icon-mobile contact"></i>  07738450101 , 09769486341 , 07738258332</li>
 							<li><a href="#"><i class="icon-mail-1 contact"></i> iitbtechnovation2k14@gmail.com</a></li>
 						</ul><!-- /.contacts -->
 					</div><!-- /.col -->
 					
 					
-					<div class="col-md-4 col-sm-6 inner">
+					<div class="pull-right"style="width: 244px">
 						<h4>Site Maintained By</h4>
 						<h3>Akash Kishore <p>9967342805<p></h3>
 						<h3>Prateek Chandan</h3>
 					
-					</div><!-- /.col -->
+					
 					
 				</div><!-- /.row --> 
 			</div><!-- .container -->
