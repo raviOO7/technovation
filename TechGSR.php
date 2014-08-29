@@ -28,8 +28,8 @@
 
 <H3>Projects</H3>
 
-<b>Choice of Projects to work on :</b><br/>
-
+<b>Choice of Technical Projects to work on :</b><br/>
+(chose either these or management projects - not more than 3 from here)
  
 <ol>
 <li> Develop the most efficient smokeless chulha with household materials only </li>
@@ -44,7 +44,15 @@
 
 <br/>
 
+<b>Choice of Management Projects to work on :</b><br/>
+(chose either these or from technical projects - not more than 1 from here)
+ 
+<ol>
+<li> Handicraft Business </li>
+<li> Manure Preperation business </li>
+</ol>
 
+<br/>
 
 
 
