@@ -133,7 +133,7 @@
             <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
             <strong>Updates!</strong>
             <br/> TechGSR project list updated !!! <a href="http://technovation.stab-iitb.org/TechGSR.php"><b>click here</b></a> to visit the page
-            <br/> Deadline for abstract submission extended till 30th August, 2014 !!!
+            
             
       </div>							
 <strong>About</strong><br>
