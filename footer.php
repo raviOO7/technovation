@@ -2,15 +2,8 @@
 		<!-- ============================================================= FOOTER ============================================================= -->
 		
 		<footer class="dark-bg">
-			<div class="container inner" style="width: 1440px">
-	
-					
-					
-					
-					
-					
-					
-					
+			<div class="container inner">
+
 					<div class="pull-left">
 						<h4>Get In Touch</h4>
 						<p>Find us in New Tinkeres Lab</p>
@@ -24,12 +17,10 @@
 					
 					<div class="pull-right"style="width: 244px">
 						<h4>Site Maintained By</h4>
-						<h3>Akash Kishore <p>9967342805<p></h3>
-						<h3>Prateek Chandan</h3>
+						<h3>Akash Kishore <p>9967342805</p></h3>
+						<h3><a href="http://prateekchandan.me">Prateek Chandan</a></h3>
 					
-					
-					
-				</div><!-- /.row --> 
+					</div><!-- /.row --> 
 			</div><!-- .container -->
 		  
 			<div class="footer-bottom">

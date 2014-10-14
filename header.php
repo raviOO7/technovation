@@ -130,26 +130,28 @@ if(!isset($title)){
 								</li><!-- /.dropdown -->
 								
 									<!-- Modal -->
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" >
-  <div class="modal-dialog" style="position:relative;top:100px">
-    <div class="modal-content">
-      <div class="modal-header" >
-        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-        <h4 class="modal-title" id="myModalLabel">Abstract Submission ( DeadLine(Extended) : 30 August,2014 )</h4>
-      </div>
-      
-     <div class="modal-body">
-      Register your team by filling this Google form <br>
-      <a style="font-size:15px"href="http://goo.gl/imTc7l" target="_blank">http://goo.gl/imTc7l</a>
-        <br>Mail Your Abstract here : <span style="font-size:15px">iitbtechnovation2k14@gmail.com<span>
-      </div>
-      <div class="modal-footer">
-        <p style="font-size:15px">For any Queries , Please contact Shyam Sunder : 7738450101 </p>
-        
-      </div>
-    </div>
-  </div>
-</div>
+								<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" >
+								  <div class="modal-dialog" style="position:relative;top:100px">
+								    <div class="modal-content">
+								      <div class="modal-header" >
+								        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+								        <h4 class="modal-title" id="myModalLabel">Abstract Submission ( DeadLine(Extended) : 30 August,2014 )</h4>
+								      </div>
+								      
+								     <div class="modal-body">
+								      Register your team by filling this Google form <br>
+								      <a style="font-size:15px"href="http://goo.gl/imTc7l" target="_blank">http://goo.gl/imTc7l</a>
+								        <br>Mail Your Abstract here : <span style="font-size:15px">iitbtechnovation2k14@gmail.com<span>
+								      </div>
+								      <div class="modal-footer">
+								        <p style="font-size:15px">For any Queries , Please contact Shyam Sunder : 7738450101 </p>
+								        
+								      </div>
+								    </div>
+								  </div>
+								</div>
+
+						
 								<!-- ============================================================= MEGA MENU ============================================================= -->
 								
 								<li class="dropdown yamm-fullwidth ">
