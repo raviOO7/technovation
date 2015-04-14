@@ -72,7 +72,7 @@ if(!isset($title)){
 					<div class="container">
 						
 						<ul class="info pull-left">
-							<li><a href="#"><i class="icon-mail-1 contact"></i> iitbtechnovation2k14@gmail.com</a></li>
+							<li><a href="#"><i class="icon-mail-1 contact"></i>technovation@stab-iitb.org</a></li>
 						</ul><!-- /.info -->
 						
 						<ul class="social pull-right">
@@ -120,7 +120,7 @@ if(!isset($title)){
 								
 								
 								<li class="dropdown ">
-									<a href="#" class="dropdown-toggle js-activated">Registration</a>
+									<a href="#" class="dropdown-toggle js-activated">Summer Technovation Registration</a>
 									
 									<ul class="dropdown-menu">
 										<li><a href="#" data-toggle="modal" data-target="#myModal">Submit your Idea </a></li>
@@ -135,16 +135,16 @@ if(!isset($title)){
 								    <div class="modal-content">
 								      <div class="modal-header" >
 								        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-								        <h4 class="modal-title" id="myModalLabel">Abstract Submission ( DeadLine(Extended) : 30 August,2014 )</h4>
+								        <h4 class="modal-title" id="myModalLabel">Abstract Submission ( DeadLine : 19 August,2015 )</h4>
 								      </div>
 								      
 								     <div class="modal-body">
-								      Register your team by filling this Google form <br>
-								      <a style="font-size:15px"href="http://goo.gl/imTc7l" target="_blank">http://goo.gl/imTc7l</a>
-								        <br>Mail Your Abstract here : <span style="font-size:15px">iitbtechnovation2k14@gmail.com<span>
+								      Register your team by filling this form <br>
+								      <a style="font-size:15px"href="https://stab.typeform.com/to/Tm5uIz" target="_blank">https://stab.typeform.com/to/Tm5uIz</a>
+								        <br>Mail Your Abstract here : <span style="font-size:15px">technovation@stab-iitb.org<span>
 								      </div>
 								      <div class="modal-footer">
-								        <p style="font-size:15px">For any Queries , Please contact Shyam Sunder : 7738450101 </p>
+								        <p style="font-size:15px">For any Queries , Please contact  <i><a href="https://www.facebook.com/umang147?fref=ts">Umang Chhaparia</a></i> : 9967346106 </p>
 								        
 								      </div>
 								    </div>

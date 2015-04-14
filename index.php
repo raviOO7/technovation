@@ -1,4 +1,4 @@
-	<?php
+f	<?php
 		$_HEADER=array();
 		include 'header.php';
 	?>
@@ -132,7 +132,7 @@
 <div class="alert alert-info fade in">
             <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
             <strong>Updates!</strong>
-            <br/> TechGSR project list updated !!! <a href="http://technovation.stab-iitb.org/TechGSR.php"><b>click here</b></a> to visit the page
+            <br/>  Summer Technovation is here !!! <a href="http://technovation.stab-iitb.org/Technovation.php"><b>click here</b></a> to visit the page
             
             
       </div>							
