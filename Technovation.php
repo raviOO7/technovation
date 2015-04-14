@@ -10,6 +10,7 @@
 							<header>
 								<h1 style="color:black">Summer Technovation</h1>
 								<h3 style="color:black">Registration Deadline : April 19, 2015</h3>
+								<h4 style="color:black">Summer Techonvation Details are <u><i><a href="assets/DETAILS OF SUMMER TECHNOVATION.pdf">here</a></i></u></h3>
 							</header>
 						</div><!-- /.col -->
 					</div><!-- ./row -->
