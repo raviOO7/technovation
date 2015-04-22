@@ -1,4 +1,4 @@
-f	<?php
+<?php
 		$_HEADER=array();
 		include 'header.php';
 	?>
